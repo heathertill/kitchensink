@@ -5,8 +5,11 @@ The objective of this lab assignment is to practice using the fundamentals of Ja
 
 Objectives
 Create a new project folder and connect it to a github repository. Copy this README.md file into it.
+
 Create an index.html file and an app.js file and link the two together.
+
 Create a variable that contains your name as a value. Name the variable appropriately.
+
 Create a constant that contains the number of states in the U.S. and name it appropriately.
 Compute the result of adding 5 and 4 and store it in an appropriately named variable.
 Write some code so that if your name starts with a letter after L, you display an alert that says "Back of the line!". Otherwise, you should display an alert that says "Next!". (Hint: Check out ASCII codes and the charCodeAt() function built into strings in JavaScript)
