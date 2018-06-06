@@ -96,7 +96,6 @@ let  strLength = getLength();
 // Item 16 - 18
 
 str = 'hello world';
-var number = str.length;
 
 
 function getLength(str) {
